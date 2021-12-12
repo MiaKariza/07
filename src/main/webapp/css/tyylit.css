@@ -1,0 +1,22 @@
+.btn bg-white text-dark {
+	cursor: pointer;	
+}
+
+.pointer {
+	cursor: pointer;
+}
+
+.oikealle {
+	text-align: right !important;	
+}
+a:link, a:visited{
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+
+a:hover, a:active {
+  background-color: white;
+  color: black
+}
